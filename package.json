@@ -7,6 +7,10 @@
     "test",
     "askeing"
   ],
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
   "author": "Askeing Yen <askeing@gmail.com>",
   "repository": {
     "type": "git",
